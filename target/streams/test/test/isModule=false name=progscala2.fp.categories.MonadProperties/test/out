@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mMonadProperties:[0m[0m
+[0m[[0minfo[0m] [0m[32mMonad law for unit[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Monads[0m[0m
+[0m[[0minfo[0m] [0m[32mMonad law for function composition[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Monads[0m[0m

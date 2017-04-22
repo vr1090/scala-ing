@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mAbbrevListSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAbbrevNil[0m[0m
+[0m[[0minfo[0m] [0m[32m- item :: AbbrevNil == AbbrevList(item)[0m[0m
+[0m[[0minfo[0m] [0m[32m- AbbrevNil.foreach(...) does nothing[0m[0m
+[0m[[0minfo[0m] [0m[32m::[0m[0m
+[0m[[0minfo[0m] [0m[32m- item :: nonEmptyAbbrevList == AbbrevList(item, ...)[0m[0m
+[0m[[0minfo[0m] [0m[32m- nonEmptyAbbrevList.foreach(...) does something for each element[0m[0m

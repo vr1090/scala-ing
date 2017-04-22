@@ -1,0 +1,34 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.dsls.payroll.internal.DSLSpec, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(metaprogramming.InvariantSpec, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.fp.categories.FunctorProperties, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.javainterop.SMapTest, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.toolslibs.ComplexSuite, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.toolslibs.ComplexProperties, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.toolslibs.ComplexSpec2, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.fp.categories.MonadProperties, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.typesystem.bounds.list.AbbrevListSpec, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.dsls.payroll.parsercomb.DSLSpec, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(progscala2.toolslibs.ComplexSpec, org.scalatest.tools.Framework$$anon$1@64e7fb2f, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mScalaCheck[0m
+[0m[[0minfo[0m] [0mPassed: Total 0, Failed 0, Errors 0, Passed 0[0m
+[0m[[0mdebug[0m] [0mSummary for specs2 not available.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 880 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 33[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 10, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 33, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 37, Failed 0, Errors 0, Passed 37[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	progscala2.toolslibs.ComplexSuite[0m
+[0m[[0mdebug[0m] [0m	progscala2.dsls.payroll.parsercomb.DSLSpec[0m
+[0m[[0mdebug[0m] [0m	progscala2.toolslibs.ComplexSpec2[0m
+[0m[[0mdebug[0m] [0m	progscala2.typesystem.bounds.list.AbbrevListSpec[0m
+[0m[[0mdebug[0m] [0m	progscala2.fp.categories.FunctorProperties[0m
+[0m[[0mdebug[0m] [0m	progscala2.fp.categories.MonadProperties[0m
+[0m[[0mdebug[0m] [0m	metaprogramming.InvariantSpec[0m
+[0m[[0mdebug[0m] [0m	progscala2.toolslibs.ComplexSpec[0m
+[0m[[0mdebug[0m] [0m	progscala2.dsls.payroll.internal.DSLSpec[0m
+[0m[[0mdebug[0m] [0m	progscala2.javainterop.SMapTest[0m
+[0m[[0mdebug[0m] [0m	progscala2.toolslibs.ComplexProperties[0m

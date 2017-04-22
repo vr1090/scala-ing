@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mComplexSpec2[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mComplex addition with (0.0, 0.0) should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a number N' that is identical to original number N[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mComplex subtraction with (0.0, 0.0) should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a number N' that is identical to original number N[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mComplex addition should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a new number where [0m
+[0m[[0minfo[0m] [0m      the real and imaginary parts are the sums of the [0m
+[0m[[0minfo[0m] [0m      input values' real and imaginary parts, respectively.[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mComplex subtraction should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m return a new number where [0m
+[0m[[0minfo[0m] [0m      the real and imaginary parts are the differences of the [0m
+[0m[[0minfo[0m] [0m      input values' real and imaginary parts, respectively.[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification ComplexSpec2[0m
+[0m[[0minfo[0m] [0m[36mFinished in 25 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m4 examples, 0 failure, 0 error[0m[0m

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mComplexSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mComplex addition with (0.0, 0.0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- returns a number N' that is identical to original number N[0m[0m
+[0m[[0minfo[0m] [0m[32mComplex subtraction with (0.0, 0.0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- returns a number N' that is identical to original number N[0m[0m
+[0m[[0minfo[0m] [0m[32mComplex addition[0m[0m
+[0m[[0minfo[0m] [0m[32m- returns a new number where the real and imaginary parts are the sums of the input values' real and imaginary parts, respectively.[0m[0m
+[0m[[0minfo[0m] [0m[32mComplex subtraction[0m[0m
+[0m[[0minfo[0m] [0m[32m- return a new number where the real and imaginary parts are the differences of the input values' real and imaginary parts, respectively.[0m[0m

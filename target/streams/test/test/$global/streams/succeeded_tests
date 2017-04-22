@@ -1,0 +1,13 @@
+#Successful Tests
+#Sat Apr 22 13:50:15 WIB 2017
+progscala2.fp.categories.MonadProperties=1492843814380
+progscala2.typesystem.bounds.list.AbbrevListSpec=1492843814422
+progscala2.javainterop.SMapTest=1492843814123
+progscala2.toolslibs.ComplexSpec2=1492843815516
+progscala2.fp.categories.FunctorProperties=1492843814519
+progscala2.toolslibs.ComplexSpec=1492843814463
+progscala2.dsls.payroll.internal.DSLSpec=1492843814257
+progscala2.toolslibs.ComplexSuite=1492843814164
+progscala2.toolslibs.ComplexProperties=1492843814385
+progscala2.dsls.payroll.parsercomb.DSLSpec=1492843814483
+metaprogramming.InvariantSpec=1492843814123

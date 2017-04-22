@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mFunctorProperties:[0m[0m
+[0m[[0minfo[0m] [0m[32mFunctor morphism composition[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Functors[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Function Functors[0m[0m
+[0m[[0minfo[0m] [0m[32mFunctor identity composed with a another function commutes[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Functors[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Function Functors[0m[0m
+[0m[[0minfo[0m] [0m[32mFunctor identity maps between the identities of the categories[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Functors[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Function Functors[0m[0m
+[0m[[0minfo[0m] [0m[32mFunctor morphism composition is associative[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Sequence Functors[0m[0m
+[0m[[0minfo[0m] [0m[32m- works for Function Functors[0m[0m
