@@ -1,4 +1,19 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1492842241927" ID="ID_1962551922" MODIFIED="1492842250157" TEXT="programming scala"/>
+<node CREATED="1492842241927" ID="ID_1962551922" MODIFIED="1492842250157" TEXT="programming scala">
+<node CREATED="1492842445176" ID="ID_923290126" MODIFIED="1492842448038" POSITION="right" TEXT="part 1">
+<node CREATED="1492842448039" ID="ID_1785208849" MODIFIED="1492842459421" TEXT="experimental portal to jvm and javascript"/>
+<node CREATED="1492844083464" ID="ID_1106850404" MODIFIED="1492844088374" TEXT="repl">
+<node CREATED="1492844088663" ID="ID_261819036" MODIFIED="1492844090678" TEXT=":help">
+<node CREATED="1492844091099" ID="ID_1236004177" MODIFIED="1492844095438" TEXT="buat buka help"/>
+</node>
+</node>
+<node CREATED="1492846894080" ID="ID_1750751014" MODIFIED="1492846896703" TEXT="script">
+<node CREATED="1492846896991" ID="ID_1884075932" MODIFIED="1492846905109" TEXT="anonymous object that you dont see"/>
+</node>
+<node CREATED="1492847187818" ID="ID_184019677" MODIFIED="1492847192932" TEXT="variable argument list">
+<node CREATED="1492847193201" ID="ID_569009917" MODIFIED="1492847196948" TEXT="as wrapped array"/>
+</node>
+</node>
+</node>
 </map>
